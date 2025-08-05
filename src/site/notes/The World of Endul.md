@@ -4,6 +4,7 @@
 
 Welcome to The World of Endul
 Click on a location on the map to get started!
+[[Nefelrosse/Gorvatch/Gorvatch\|Gorvatch]]
 
 ```leaflet  
 id: EndulWorldMap_NoLocations ### Must be unique with no spaces  
