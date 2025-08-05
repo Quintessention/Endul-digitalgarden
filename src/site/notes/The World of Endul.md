@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-endul/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-world-of-endul/"}
 ---
 
 Welcome to The World of Endul
